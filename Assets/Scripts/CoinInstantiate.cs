@@ -45,6 +45,7 @@ public class CoinInstantiate : MonoBehaviour
         if (_counter >= _coinSpawns.Length) 
         {
             _coinInstantiate = StartCoroutine(Instantiate());
+            _counter = 0;
         }
     }
 }

@@ -41,8 +41,8 @@ public class Coin : MonoBehaviour
             yield return null;
         }
 
-        yield return new WaitForSeconds(0.3f);
+        float waitTime = 0.3f;
+        yield return new WaitForSeconds(waitTime);
         Destroy(gameObject);
-        StopCoroutine(_destroyCoroutine);
     }
 }

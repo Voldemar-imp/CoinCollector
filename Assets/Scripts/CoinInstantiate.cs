@@ -24,8 +24,6 @@ public class CoinInstantiate : MonoBehaviour
             Coin newCoin = Instantiate(_template, coinSpawn.transform.position, Quaternion.identity);
             yield return null;
         }
-
-        StopCoroutine(_coinInstantiate);
     }
 
     private void OnEnable()
@@ -44,6 +42,7 @@ public class CoinInstantiate : MonoBehaviour
 
         if (_counter >= _coinSpawns.Length) 
         {
+            StopCoroutine(_coinInstantiate);
             _coinInstantiate = StartCoroutine(Instantiate());
             _counter = 0;
         }

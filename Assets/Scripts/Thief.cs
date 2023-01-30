@@ -18,6 +18,7 @@ public class Thief : MonoBehaviour
     private Animator _animator;
     private bool _isOnGround = true;
     private bool _isAlive = true;
+
     private static int _walkleft = Animator.StringToHash("WalkLeft");
     private static int _walkright = Animator.StringToHash("WalkRight");
 

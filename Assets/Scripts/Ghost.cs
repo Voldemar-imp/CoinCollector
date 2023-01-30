@@ -12,22 +12,28 @@ public class Ghost : MonoBehaviour
     private Vector3 _target;
     private Vector3 _position1;
     private Vector3 _position2;
+
     private static int _leftMove = Animator.StringToHash("LeftMove");
     private static int _rightMove = Animator.StringToHash("RightMove");
 
-    private bool _isInside = false;
 
     private void Start()
     {
-        _animator = GetComponent<Animator>();
-
-        if (_range<2) _range = 2;
-
+        _animator = GetComponent<Animator>();   
         _position1 = transform.position - new Vector3(_range, 0, 0);
         _position2 = transform.position - new Vector3(-_range, 0, 0);
         _target = _position1;
     }
 
+    private void OnValidate()
+    {
+        int minRange = 2;
+
+        if (_range < minRange)
+        { 
+            _range = minRange; 
+        } 
+    }
 
     private void Update()
     {

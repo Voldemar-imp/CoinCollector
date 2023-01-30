@@ -1,0 +1,750 @@
+fileFormatVersion: 2
+guid: 5c0bcd14b7372e249863670069ff195d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 736
+        width: 108
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060182feb2a2a546be34aca01f4daeb
+      internalID: 119400637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 736
+        width: 94
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2f76b70400b142b5bfc31ef5259ba
+      internalID: 360103847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 736
+        width: 84
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1d6e98cfa74f4e93cad8648f9ecce
+      internalID: -233989829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 736
+        width: 85
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a51e91136f57e4289620e5bea3ac18
+      internalID: 407286146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_4
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 736
+        width: 84
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e74041e80b063641891cbc98b3ebfd3
+      internalID: -1408456271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_5
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 736
+        width: 88
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed455443f8c320c4e8ae8dcb80005c75
+      internalID: 402486391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 552
+        width: 101
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a455a721923b3408e0ec4ee52c5503
+      internalID: 140441334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 553
+        width: 108
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73735a2d3d43939489852518e034d34b
+      internalID: 1898528686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_8
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 554
+        width: 94
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d3229ea2a671849ab547167bdc934c
+      internalID: 1234643692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 556
+        width: 84
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c167e0349f0444bad2f139bd158e9e
+      internalID: 196616542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 557
+        width: 84
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3862b3e34f4cbd04ebccb9a0afaddd2f
+      internalID: -767554929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_11
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 557
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be48b1f2c3b13a449467d73e0e8125b
+      internalID: -1381608605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 373
+        width: 88
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c869aa02f23ce4fbb77f042722161a
+      internalID: 1194894107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 370
+        width: 101
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86adf948d83ffce4c8b35d1c7ea0aa9b
+      internalID: -243016498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 368
+        width: 109
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee54da2cf6d32a468108a71ca1aa266
+      internalID: 158263091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_15
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 368
+        width: 94
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf17c2325a2144cbe927e899437bf8
+      internalID: -1624289961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_16
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 368
+        width: 84
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7886356a0cf5345aae615c528b56ac
+      internalID: 123981506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 368
+        width: 84
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f15f90b733e398459d8dfbca377de4d
+      internalID: 869209189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 185
+        width: 85
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f6dd9cc2fc8b248be550a0b2bb1351
+      internalID: 440730963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 185
+        width: 88
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37b84ab16f036449ac1471239fc0619
+      internalID: -271772263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 184
+        width: 102
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b49c54314f0e8429e9f5f81e87dd26
+      internalID: -1240060995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 185
+        width: 108
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8780918c8649a4995975dd2e1a1e3a
+      internalID: 1997258260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 186
+        width: 94
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02861428d97fb914cbfe3e7b4ffec704
+      internalID: 426252181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_23
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 188
+        width: 84
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc04963fd4658c489dc6a1f3d138aa5
+      internalID: -748901224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5
+        width: 84
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582fe9e1a19c8aa4c8d6e39fba61a77a
+      internalID: -774150052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 5
+        width: 84
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77087560b3b162f46bc333e9e543e4cd
+      internalID: -1262456880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_26
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 5
+        width: 88
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924f1a618214da438377ed9ddc43816
+      internalID: 1203748645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2
+        width: 101
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbafe0f757efc14085f462459d41172
+      internalID: 353714383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_4: -1408456271
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_24: -774150052
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_6: 140441334
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_21: 1997258260
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_5: 402486391
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_15: -1624289961
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_22: 426252181
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_7: 1898528686
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_0: 119400637
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_2: -233989829
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_8: 1234643692
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_17: 869209189
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_1: 360103847
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_12: 1194894107
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_11: -1381608605
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_18: 440730963
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_3: 407286146
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_25: -1262456880
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_27: 353714383
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_13: -243016498
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_26: 1203748645
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_10: -767554929
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_14: 158263091
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_16: 123981506
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_19: -271772263
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_9: 196616542
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_23: -748901224
+      png-clipart-css-sprites-animated-film-walk-cycle-sprite-purple-game_20: -1240060995
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
